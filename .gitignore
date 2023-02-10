@@ -1,2 +1,3 @@
 *.exe
-*.json
+config.json
+version.json
