@@ -1,6 +1,6 @@
 # kofficepanel-binstream-api-public
 
-Baixe a última versão do kOfficePanel Binstream API aqui.\n\r
+Baixe a última versão do kOfficePanel Binstream API aqui.
 
 Copie e cole os seguintes comandos(Substituir YOUR-TOKEN-HERE por uma Chave de Acesso segura):
 
