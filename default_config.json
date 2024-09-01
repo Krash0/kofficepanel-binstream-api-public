@@ -1,4 +1,5 @@
 {	
 	"token": "{TOKEN}",
-	"allowed_ips": []
+	"allowed_ips": [],
+	"binstream-config-file": "/data/BinStream/bserver/configs/config.json"
 }
